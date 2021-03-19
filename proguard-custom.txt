@@ -58,7 +58,7 @@
 
 
 #KPMG
--keep class connect.KGSAppstore.BuildConfig { *; }
+-keep class com.benepik.kpmg.wired.sso.BuildConfig { *; }
 
 # Enable proguard with Cordova
 -keep class org.apache.cordova.** { *; }
